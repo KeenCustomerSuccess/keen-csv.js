@@ -1,0 +1,15 @@
+{
+  "name": "keen-csv",
+  "version": "0.0.1",
+  "description": "CSV output for Keen IO",
+  "main": "lib/index.js",
+  "author": "Jevon Wild <jevon@keen.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/dorkusprime/keen-csv.js.git"
+  },
+  "dependencies": {
+    "keen-analysis": "^1.3.0"
+  }
+}
